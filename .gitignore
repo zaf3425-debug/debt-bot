@@ -1,0 +1,14 @@
+# Python cache files
+__pycache__/
+
+# Database files
+debts.db
+
+# Bot token file
+bot_token.txt
+
+# IDE files
+*.idea/
+*.vscode/
+*.pyc
+*.pyo
